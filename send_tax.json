@@ -1,0 +1,206 @@
+{
+  "document_type": "docx",
+  "filename": "Sending the tax return.docx",
+  "metadata": {
+    "source": "Canada.ca",
+    "language": "en",
+    "extraction_date": "2025-01-03"
+  },
+  "navigation": {
+    "main_title": "Tax software for filing personal taxes",
+    "sections": [
+      {
+        "title": "Find certified tax software",
+        "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-software.html"
+      },
+      {
+        "title": "Completing a tax return",
+        "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-complete.html"
+      },
+      {
+        "title": "Sending a tax return",
+        "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html"
+      }
+    ]
+  },
+  "content": [
+    {
+      "type": "page_title",
+      "text": "Tax software for filing personal taxes"
+    },
+    {
+      "type": "heading1",
+      "text": "Sending the tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "After completing your return in certified tax software, you can electronically send the return to the Canada Revenue Agency (CRA). Once you receive your confirmation, you may be able to view your notice of assessment (NOA) in tax software."
+    },
+    {
+      "type": "table_of_contents",
+      "title": "On this page:",
+      "items": [
+        {
+          "title": "Send the return electronically",
+          "anchor": "#sen",
+          "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html#sen"
+        },
+        {
+          "title": "Confirm the return was received",
+          "anchor": "#con",
+          "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html#con",
+          "subitems": [
+            {
+              "title": "View your NOA in tax software",
+              "anchor": "#view",
+              "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html#view"
+            }
+          ]
+        },
+        {
+          "title": "After using tax software",
+          "anchor": "#aft",
+          "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html#aft"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "id": "sen",
+      "title": "Send the return electronically",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You can use the NETFILE service in tax software to electronically send the tax return to the CRA."
+        },
+        {
+          "type": "paragraph",
+          "text": "The service is available daily with the following exceptions:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "3 am to 6 am ET for daily maintenance",
+            "February 1 to 24, 2025 for tax year updates"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Most Canadian residents can use the NETFILE service. If you are unsure about any restrictions that may apply to your situation, you can check to confirm you can use this service.",
+          "links": [
+            {
+              "text": "NETFILE",
+              "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-netfile.html"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you cannot use the NETFILE service, you can print your return and mail it to the CRA.",
+          "links": [
+            {
+              "text": "mail it to the CRA",
+              "url": "https://www.canada.ca/en/revenue-agency/corporate/contact-information/where-mail-your-paper-t1-return.html"
+            }
+          ]
+        },
+        {
+          "type": "expandable_section",
+          "title": "CRA security of your personal information",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "We accept responsibility for the security of information once we receive it. We take precautions to ensure that there is no unauthorized access to your data, and ensure the confidentiality of data you send using NETFILE. We use sophisticated security and encryption to protect this website and your personal information."
+            },
+            {
+              "type": "paragraph",
+              "text": "We are also responsible for making sure personal and financial information is sent in an encrypted format between your computer and our servers. This ensures that computer hackers and other Internet users can't view or alter the data you send to us."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "id": "con",
+      "title": "Confirm the return was received",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "You will get a confirmation message in your tax software after sending the return to the CRA."
+        },
+        {
+          "type": "paragraph",
+          "text": "The message will include a code, which confirms the CRA has successfully received your completed tax return."
+        },
+        {
+          "type": "subsection",
+          "id": "view",
+          "title": "View your NOA in tax software",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In tax software, you can view the notice of assessment (NOA) right after sending the return. This notice will have the same information as the copies sent by mail and in your CRA account.",
+              "emphasis": {
+                "text": "same information",
+                "style": "bold"
+              }
+            },
+            {
+              "type": "paragraph",
+              "text": "If you select this option, you will be prompted to enter your CRA account user ID and password after receiving your confirmation message."
+            },
+            {
+              "type": "paragraph",
+              "text": "For details: NOA in tax software",
+              "links": [
+                {
+                  "text": "NOA in tax software",
+                  "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-enoa.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "id": "aft",
+      "title": "After using tax software",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "There are 3 possible outcomes from your tax return:"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Get a refund",
+            "Have a balance owing",
+            "Have no refund or balance owing"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You will receive your notice of assessment (NOA) which will indicate the outcome from your tax return."
+        },
+        {
+          "type": "service_standard",
+          "label": "Service standard:",
+          "text": "Within 2 weeks"
+        },
+        {
+          "type": "paragraph",
+          "text": "For details, refer to: After filing a tax return",
+          "links": [
+            {
+              "text": "After filing a tax return",
+              "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/after.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
