@@ -1,0 +1,206 @@
+{
+  "document_type": "docx",
+  "filename": "Get ready to file a tax return.docx",
+  "metadata": {
+    "source": "Canada.ca",
+    "language": "fr-CA",
+    "extraction_date": "2025-01-03",
+    "translation_date": "2025-07-03T20:13:12.651875",
+    "translation_model": "c4ai-aya-expanse-32b"
+  },
+  "breadcrumb": [
+    {
+      "level": 1,
+      "text": "Canada.ca (en français)",
+      "url": "https://www.canada.ca/en.html"
+    },
+    {
+      "level": 2,
+      "text": "Impôts",
+      "url": "https://www.canada.ca/en/services/taxes.html"
+    },
+    {
+      "level": 3,
+      "text": "Impôt sur le revenu",
+      "url": "https://www.canada.ca/en/services/taxes/income-tax.html"
+    },
+    {
+      "level": 4,
+      "text": "Impôt sur le revenu des particuliers",
+      "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/pit.html"
+    }
+  ],
+  "content": [
+    {
+      "type": "main_title",
+      "text": "Impôt sur le revenu des particuliers"
+    },
+    {
+      "type": "heading1",
+      "text": "Préparez-vous à produire votre déclaration de revenus"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour recevoir les prestations et les crédits auxquels vous pourriez avoir droit, vous devez produire votre déclaration de revenus et de prestations chaque année."
+    },
+    {
+      "type": "paragraph",
+      "text": "Commencez par rassembler vos documents pour déclarer vos revenus et demander des déductions, puis choisissez la méthode de production de votre déclaration de revenus et envoyez-la à l'ARC."
+    },
+    {
+      "type": "heading2",
+      "text": "Étapes pour se préparer en vue de l'impôt 2024"
+    },
+    {
+      "type": "numbered_item",
+      "number": 1,
+      "title": "Déterminer qui doit produire une déclaration de revenus",
+      "url": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/who-should-file-tax.html",
+      "description": "Déterminez si vous devez produire une déclaration de revenus et vos obligations en fonction de votre situation fiscale."
+    },
+    {
+      "type": "numbered_item",
+      "number": 2,
+      "title": "Apprenez ce qui est nouveau.",
+      "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/whats-new.html",
+      "description": "Modifications aux avantages, aux crédits et aux dépenses pour les individus et les familles, ainsi que mises à jour du dossier d'impôt sur le revenu de 2024."
+    },
+    {
+      "type": "numbered_item",
+      "number": 3,
+      "title": "Prenez note des dates importantes",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html",
+      "description": "Dates limites de production des déclarations et de paiement des impôts, des versements d'acomptes et de tout montant que vous pourriez devoir.",
+      "subsections": [
+        {
+          "type": "subsection",
+          "title": "Dates limites de production des déclarations de revenus de 2024",
+          "items": [
+            {
+              "date": "February 24, 2025",
+              "description": "La date la plus précoce pour produire votre déclaration de revenus en ligne"
+            },
+            {
+              "date": "April 30, 2025",
+              "description": "Date limite pour produire votre déclaration de revenus"
+            },
+            {
+              "date": "June 15, 2025",
+              "note": "Le 16 juin 2025, puisque le 15 juin est un dimanche.",
+              "description": "Date limite pour produire votre déclaration de revenus si vous êtes travailleur autonome ou si votre conjoint ou partenaire de fait l'est"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Date d'échéance pour le paiement des impôts de 2024",
+          "items": [
+            {
+              "date": "April 30, 2025",
+              "description": "Date limite pour payer vos impôts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "numbered_item",
+      "number": 4,
+      "title": "Obtenez des feuillets de renseignements fiscaux",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/tax-slips.html",
+      "description": "Comprenez vos feuillets d'information fiscale, comme le T4 et le T4A, lorsque vous les recevrez de l'émetteur, ainsi que la manière d'obtenir une copie."
+    },
+    {
+      "type": "numbered_item",
+      "number": 5,
+      "title": "Gardez vos renseignements à jour auprès de l'ARC.",
+      "url": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/personal.html",
+      "description": "Avisez l'ARC des changements d'adresse postale ou électronique, de numéro de téléphone, de nom ou d'état civil.",
+      "additional_info": "Mettez à jour les détails de votre dépôt direct pour les paiements et les remboursements, ainsi que vos préférences linguistiques et d'envoi pour recevoir le courrier de l'ARC."
+    },
+    {
+      "type": "numbered_item",
+      "number": 6,
+      "title": "Choisissez comment produire une déclaration de revenus.",
+      "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/how-file.html",
+      "options": [
+        {
+          "type": "option",
+          "title": "Vous pouvez produire votre propre déclaration de revenus en utilisant :",
+          "items": [
+            "Logiciel de déclaration de revenus",
+            "Déclaration de revenus papier",
+            "Une invitation SimpleFile"
+          ]
+        },
+        {
+          "type": "option",
+          "title": "Vous pouvez demander à quelqu'un d'autre de produire votre déclaration de revenus, par exemple :",
+          "items": [
+            "Un préparateur de déclarations de revenus professionnel",
+            "Une clinique d'impôt gratuite"
+          ]
+        }
+      ],
+      "special_section": {
+        "type": "info_box",
+        "title": "Obtenez votre code d'accès à NETFILE",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Si vous prévoyez produire votre déclaration de revenus par voie électronique à l'aide d'un logiciel d'impôt, on pourrait vous demander un code d'accès NETFILE. Si vous produisez votre déclaration de revenus pour la première fois, vous n'aurez pas de code d'accès."
+          },
+          {
+            "type": "paragraph",
+            "text": "Le code d'accès unique de 8 caractères, composé de chiffres et de lettres, se trouve à droite de votre avis d'évaluation (AE) de l'année précédente.",
+            "link": {
+              "text": "Avis d'évaluation (AE)",
+              "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/noa.html"
+            }
+          },
+          {
+            "type": "note",
+            "text": "Image indiquant où trouver le code d'accès"
+          },
+          {
+            "type": "emphasis",
+            "text": "Le code d'accès n'est pas obligatoire."
+          },
+          {
+            "type": "subsection",
+            "title": "Si vous ne fournissez pas le code d'accès",
+            "text": "Bien que ce code d'accès ne soit pas obligatoire, si vous ne l'inscrivez pas :",
+            "items": [
+              "Vous ne pourrez pas utiliser quelque information que ce soit de votre dernière déclaration de revenus pour confirmer votre identité auprès de l'ARC.",
+              "L'ARC devra utiliser d'autres renseignements à des fins d'authentification."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "text": "Caractéristiques"
+    },
+    {
+      "type": "feature_box",
+      "items": [
+        {
+          "title": "Produisez votre déclaration de revenus en ligne",
+          "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-index.html",
+          "description": "Produisez votre déclaration en ligne avant la date limite."
+        },
+        {
+          "title": "Effectuer un paiement",
+          "url": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment.html",
+          "description": "Déterminez quelle méthode de paiement vous convient."
+        },
+        {
+          "title": "Avant de nous appeler :",
+          "url": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/find-answers-taxpayers-most-common-questions-right-here.html",
+          "description": "Essayez ces conseils et ressources avant de nous appeler !"
+        }
+      ]
+    }
+  ]
+}

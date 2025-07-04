@@ -1,0 +1,204 @@
+{
+  "document_type": "docx",
+  "filename": "Get ready to file a tax return.docx",
+  "metadata": {
+    "source": "Canada.ca",
+    "language": "en",
+    "extraction_date": "2025-01-03"
+  },
+  "breadcrumb": [
+    {
+      "level": 1,
+      "text": "Canada.ca",
+      "url": "https://www.canada.ca/en.html"
+    },
+    {
+      "level": 2,
+      "text": "Taxes",
+      "url": "https://www.canada.ca/en/services/taxes.html"
+    },
+    {
+      "level": 3,
+      "text": "Income tax",
+      "url": "https://www.canada.ca/en/services/taxes/income-tax.html"
+    },
+    {
+      "level": 4,
+      "text": "Personal income tax",
+      "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/pit.html"
+    }
+  ],
+  "content": [
+    {
+      "type": "main_title",
+      "text": "Personal income tax"
+    },
+    {
+      "type": "heading1",
+      "text": "Get ready to file a tax return"
+    },
+    {
+      "type": "paragraph",
+      "text": "To receive the benefits and credits you may be eligible for, you need to file your income tax and benefit return every year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start by gathering your documents to report income and claim deductions, and choose how you want to file and send your completed tax return to the CRA."
+    },
+    {
+      "type": "heading2",
+      "text": "Steps to get ready for 2024 taxes"
+    },
+    {
+      "type": "numbered_item",
+      "number": 1,
+      "title": "Find out who should file a tax return",
+      "url": "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/who-should-file-tax.html",
+      "description": "Determine if you need to file a tax return and your obligations based on your tax situation."
+    },
+    {
+      "type": "numbered_item",
+      "number": 2,
+      "title": "Learn what's new",
+      "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/whats-new.html",
+      "description": "Changes to benefits, credits, and expenses for individuals and families, and updates to the 2024 income tax package."
+    },
+    {
+      "type": "numbered_item",
+      "number": 3,
+      "title": "Be aware of key dates",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html",
+      "description": "Filing and payment due dates for taxes, instalment payments, and any amounts you may owe.",
+      "subsections": [
+        {
+          "type": "subsection",
+          "title": "Filing dates for 2024 taxes",
+          "items": [
+            {
+              "date": "February 24, 2025",
+              "description": "Earliest day to file your taxes online"
+            },
+            {
+              "date": "April 30, 2025",
+              "description": "Deadline to file your taxes"
+            },
+            {
+              "date": "June 15, 2025",
+              "note": "June 16, 2025, since June 15 is a Sunday",
+              "description": "Deadline to file your taxes if you or your spouse or common-law partner are self-employed"
+            }
+          ]
+        },
+        {
+          "type": "subsection",
+          "title": "Payment due date for 2024 taxes",
+          "items": [
+            {
+              "date": "April 30, 2025",
+              "description": "Deadline to pay your taxes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "numbered_item",
+      "number": 4,
+      "title": "Get tax slips",
+      "url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/tax-slips.html",
+      "description": "Understand your tax information slips, such as the T4 and T4A, when you will receive them from the issuer, and how to get a copy."
+    },
+    {
+      "type": "numbered_item",
+      "number": 5,
+      "title": "Keep information up-to-date with the CRA",
+      "url": "https://www.canada.ca/en/revenue-agency/services/update-information-cra/personal.html",
+      "description": "Notify the CRA about changes to a mailing or email address, phone number, name, or marital status.",
+      "additional_info": "Update direct deposit details for payments and refunds, language and mail preferences to receive CRA mail."
+    },
+    {
+      "type": "numbered_item",
+      "number": 6,
+      "title": "Choose how to file a tax return",
+      "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/how-file.html",
+      "options": [
+        {
+          "type": "option",
+          "title": "You can file your own tax return using:",
+          "items": [
+            "Tax software",
+            "A paper tax return",
+            "A SimpleFile invitation"
+          ]
+        },
+        {
+          "type": "option",
+          "title": "You can have someone else file your tax return, such as:",
+          "items": [
+            "A professional tax preparer",
+            "A free tax clinic"
+          ]
+        }
+      ],
+      "special_section": {
+        "type": "info_box",
+        "title": "Get your NETFILE access code",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "If you plan to file a return electronically with tax software, you may be asked for a NETFILE access code. If you are filing a tax return for the first time, you will not have an access code."
+          },
+          {
+            "type": "paragraph",
+            "text": "The unique 8-character access code is made up of numbers and letters and is located on the right side of your previous year's notice of assessment (NOA).",
+            "link": {
+              "text": "notice of assessment (NOA)",
+              "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/noa.html"
+            }
+          },
+          {
+            "type": "note",
+            "text": "Image of where to find the access code"
+          },
+          {
+            "type": "emphasis",
+            "text": "The access code is not mandatory."
+          },
+          {
+            "type": "subsection",
+            "title": "If you do not provide the access code",
+            "text": "While this access code is not mandatory, if you do not enter the access code:",
+            "items": [
+              "You will not be able to use any information from your most recent tax return to confirm your identity with the CRA",
+              "The CRA will have to use other information for authentication purposes"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "text": "Features"
+    },
+    {
+      "type": "feature_box",
+      "items": [
+        {
+          "title": "File your tax return online",
+          "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-index.html",
+          "description": "File online before the deadline."
+        },
+        {
+          "title": "Make a payment",
+          "url": "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/make-payment.html",
+          "description": "Find out with method of payment works for you."
+        },
+        {
+          "title": "Before you call us",
+          "url": "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/find-answers-taxpayers-most-common-questions-right-here.html",
+          "description": "Try these tips and resources before calling us!"
+        }
+      ]
+    }
+  ]
+}
