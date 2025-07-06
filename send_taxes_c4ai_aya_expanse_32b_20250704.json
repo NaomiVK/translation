@@ -1,0 +1,208 @@
+{
+  "document_type": "docx",
+  "filename": "Sending the tax return.docx",
+  "metadata": {
+    "source": "Canada.ca",
+    "language": "fr-CA",
+    "extraction_date": "2025-01-03",
+    "translation_date": "2025-07-04T18:57:47.284230",
+    "translation_model": "c4ai-aya-expanse-32b"
+  },
+  "navigation": {
+    "main_title": "Tax software for filing personal taxes",
+    "sections": [
+      {
+        "title": "Trouver un logiciel de déclaration de revenus certifié",
+        "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-software.html"
+      },
+      {
+        "title": "Produire une déclaration de revenus",
+        "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-complete.html"
+      },
+      {
+        "title": "Transmettre une déclaration de revenus",
+        "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html"
+      }
+    ]
+  },
+  "content": [
+    {
+      "type": "page_title",
+      "text": "Logiciel d'impôt pour la production des déclarations de revenus des particuliers"
+    },
+    {
+      "type": "heading1",
+      "text": "Transmission de la déclaration de revenus"
+    },
+    {
+      "type": "paragraph",
+      "text": "Après avoir complété votre déclaration dans un logiciel de production de déclarations certifié, vous pouvez transmettre électroniquement votre déclaration à l'Agence du revenu du Canada (ARC). Une fois que vous avez reçu votre confirmation, vous pourriez être en mesure de consulter votre avis de cotisation (AC) dans le logiciel de déclaration de revenus."
+    },
+    {
+      "type": "table_of_contents",
+      "title": "Sur cette page :",
+      "items": [
+        {
+          "title": "Transmettez la déclaration par voie électronique.",
+          "anchor": "#sen",
+          "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html#sen"
+        },
+        {
+          "title": "Confirmez que la déclaration a été reçue",
+          "anchor": "#con",
+          "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html#con",
+          "subitems": [
+            {
+              "title": "Consultez votre DND dans le logiciel de déclaration de revenus",
+              "anchor": "#view",
+              "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html#view"
+            }
+          ]
+        },
+        {
+          "title": "Après avoir utilisé un logiciel d'impôt",
+          "anchor": "#aft",
+          "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-send.html#aft"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "id": "sen",
+      "title": "Transmettez la déclaration par voie électronique.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Vous pouvez utiliser le service NETFILE dans un logiciel de déclaration de revenus pour transmettre électroniquement la déclaration de revenus à l'ARC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le service est offert tous les jours, à l'exception des cas suivants :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "De 3 h à 6 h HE pour l'entretien quotidien",
+            "Du 1er au 24 février 2025 pour les mises à jour de l'année d'imposition"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "La plupart des résidents canadiens peuvent utiliser le service NETFILE. Si vous n'êtes pas certain des restrictions qui pourraient s'appliquer à votre situation, vous pouvez vérifier pour confirmer que vous pouvez utiliser ce service.",
+          "links": [
+            {
+              "text": "DECLARATION EN LIGNE",
+              "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-netfile.html"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Si vous ne pouvez pas utiliser le service NETFILE, vous pouvez imprimer votre déclaration et l'envoyer à l'ARC.",
+          "links": [
+            {
+              "text": "Envoyez-le par la poste à l'ARC.",
+              "url": "https://www.canada.ca/en/revenue-agency/corporate/contact-information/where-mail-your-paper-t1-return.html"
+            }
+          ]
+        },
+        {
+          "type": "expandable_section",
+          "title": "Sécurité de vos renseignements personnels à l'ARC",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Nous assumons la responsabilité de la sécurité des renseignements dès leur réception. Nous prenons des précautions pour nous assurer qu'il n'y a pas d'accès non autorisé à vos données et nous garantissons la confidentialité des données que vous transmettez par l'entremise de NETFILE. Nous utilisons des mesures de sécurité et de cryptage sophistiquées pour protéger ce site Web et vos renseignements personnels."
+            },
+            {
+              "type": "paragraph",
+              "text": "Nous sommes également responsables de nous assurer que les renseignements personnels et financiers sont transmis sous forme chiffrée entre votre ordinateur et nos serveurs. Cela garantit que les pirates informatiques et autres utilisateurs d'Internet ne peuvent pas consulter ou modifier les données que vous nous envoyez."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "id": "con",
+      "title": "Confirmez que la déclaration a été reçue",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Vous recevrez un message de confirmation dans votre logiciel de déclaration de revenus après l'envoi de la déclaration à l'ARC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le message comprendra un code, confirmant que l'ARC a reçu avec succès votre déclaration de revenus complétée."
+        },
+        {
+          "type": "subsection",
+          "id": "view",
+          "title": "Consultez votre AND dans le logiciel de déclaration de revenus",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dans les logiciels de déclaration de revenus, vous pouvez consulter l'avis de cotisation (AC) immédiatement après l'envoi de votre déclaration. Cet avis contiendra les mêmes renseignements que les copies envoyées par la poste et celles accessibles dans votre compte à l'ARC.",
+              "emphasis": {
+                "text": "Traduction en français canadien : même information",
+                "style": "bold"
+              }
+            },
+            {
+              "type": "paragraph",
+              "text": "Si vous choisissez cette option, on vous demandera d'entrer votre identifiant d'utilisateur et votre mot de passe du compte de l'ARC après avoir reçu votre message de confirmation."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pour plus de détails : ANO dans le logiciel de déclaration de revenus",
+              "links": [
+                {
+                  "text": "Déclaration de revenus (T1) dans le logiciel de déclaration de revenus",
+                  "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/sub-enoa.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "id": "aft",
+      "title": "Après avoir utilisé un logiciel de déclaration de revenus",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Il y a 3 résultats possibles à votre déclaration de revenus :"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Obtenir un remboursement",
+            "Avoir un solde impayé",
+            "N'avez aucun remboursement ni solde impayé"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Vous recevrez votre avis de cotisation (AC) qui indiquera le résultat de votre déclaration de revenus."
+        },
+        {
+          "type": "service_standard",
+          "label": "Service standard:",
+          "text": "Dans les deux semaines"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pour plus de détails, consultez : Après avoir produit une déclaration de revenus",
+          "links": [
+            {
+              "text": "Après avoir produit une déclaration de revenus",
+              "url": "https://test.canada.ca/cra-arc/jmlt333/t1/val-test/after.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
